@@ -9,5 +9,5 @@ Dataset link
 ## [derbi-hackathon-retinal-fundus-image-dataset (DRFID)](https://www.kaggle.com/datasets/nikkich9/derbi-hackathon-retinal-fundus-image-dataset)
 ## [cataract dataset](https://www.kaggle.com/datasets/jr2ngb/cataractdataset/data?select=dataset)
 ## [glaucoma detection](https://www.kaggle.com/datasets/sshikamaru/glaucoma-detection)
-## [eyepacs airogs](https://www.kaggle.com/datasets/deathtrooper/eyepacs-airogs-light)
+## [eyepacs airogs_v2](https://www.kaggle.com/datasets/deathtrooper/glaucoma-dataset-eyepacs-airogs-light-v2)
 ## [Dataset from fundus images for the study of diabetic retinopathy](https://zenodo.org/records/4891308)
